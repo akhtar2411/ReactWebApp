@@ -5,4 +5,4 @@ import App from './App';
 import registerServiceWorker from './registerServiceWorker';
 
 ReactDOM.render(<App />, document.getElementById('root'));
-registerServiceWorker();
+registerServiceWorker(); //It create webworker to optimize/caching your work.
