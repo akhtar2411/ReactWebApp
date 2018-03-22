@@ -14,10 +14,10 @@ export class Header extends React.Component {
             <Link to="/">Home</Link>
           </li>
           <li>
-            <Link to="/contactus">Home</Link>
+            <Link to="/contactus">Contact</Link>
           </li>
           <li>
-            <Link to="/aboutus">Home</Link>
+            <Link to="/aboutus">About</Link>
           </li>
         </ul>
       </div>
